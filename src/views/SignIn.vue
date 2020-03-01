@@ -36,7 +36,7 @@
 
       <div class="text-center mb-3">
         <p>
-          <router-link to="/singup">Sign Up</router-link>
+          <router-link to="/signup">Sign Up</router-link>
         </p>
       </div>
 
